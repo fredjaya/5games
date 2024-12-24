@@ -8,7 +8,16 @@ uv add pygame-ce
 uv add --dev ruff
 ``` 
 
-Then, select VSCode interpreter as `.venv/bin/python`.
+## Usage  
+
+**VSCode**  
+
+- Select VSCode interpreter as `.venv/bin/python`.  
+- Select `Run Python File`  
+
+**uv**  
+
+- `uv run space_shooter.main.py`
 
 ## Resources  
 
